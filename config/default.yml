@@ -1,0 +1,6 @@
+logger:
+  level: info
+  name: terms-dictionary
+
+server:
+  port: 8080

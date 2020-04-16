@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier"
+  ],
+  "defaultSeverity": "error",
+  "rulesDirectory": [
+    "tslint-plugin-prettier"
+  ],
+  "rules": {
+    "prettier": true,
+    "object-literal-sort-keys": false,
+    "no-implicit-dependencies": [
+      true,
+      "dev"
+    ],
+    "max-classes-per-file": false,
+    "no-submodule-imports": false,
+    "no-unused-expression": false,
+    "prefer-conditional-expression": false
+  }
+}
