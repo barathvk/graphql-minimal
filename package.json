@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@delphai/typed-config": "^0.0.2",
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.14.2",
     "bunyan": "^1.8.12",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.1",
